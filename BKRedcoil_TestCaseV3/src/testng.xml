@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="Suite" parallel="false">
-   <test name="LoginTest" preserve-order="true">
-    <classes>
-      <class name="com.annie.testcase.LoginTestURL"/>
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
